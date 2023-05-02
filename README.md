@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/132303976/235535176-22f98596-765d-4da1
 https://user-images.githubusercontent.com/132303976/235535306-2f3551c1-b7e9-481a-aeab-62f70a1a363d.mov
 
 
-This approach has also performed rreasonably well with other piano music, the the two examples below were generated after training PixelCNN on a larger dataset of over 7,000 images created from Beethoven, Mozart, and Schubert's Sonatas, and other Romantic-era piano pieces.
+This approach has also performed reasonably well with other piano music, the the two examples below were generated after training PixelCNN on a larger dataset of over 7,000 images created from Beethoven, Mozart, and Schubert's Sonatas, and other Romantic-era piano pieces.
 
 https://user-images.githubusercontent.com/132303976/235598437-f5978881-1f2a-41f8-b40f-fe16a560eb9f.mov
 
