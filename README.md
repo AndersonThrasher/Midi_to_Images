@@ -15,7 +15,7 @@ Each track in the MIDI file will be color coded red, green, or blue.
 Tiler.py takes these images and crops them into seperate smaller images of a specified length to be used as a dataset for training a generative image model (e.g. PixelCNN++).
 By default, Tiler.py will crop any notes with pitches outside of the range of the 88 keys on a piano to create smaller images which will lead to faster training times. You may need to change this if you are using MIDI files with other instruments that have a greater range in pitch.
 
-Image_to_Midi.py converts a single image of height 128 to a MIDI file.
+Image_to_Midi.py converts a single image of height 128 to a MIDI file by horizontal lines of pixels as notes with pitch corresponding to the height in the image.
 
 ## Results
 Below are some of the results I was able to achieve after training a PixelCNN model based on work by [Tim Salimans, Andrej Karpathy, Xi Chen, and Diederik P. Kingma](https://github.com/openai/pixel-cnn) for 50 epochs on a dataset of  over 2,000 training images created from Bach's Goldberg Variations, WTC books 1 and 2, The Art of Fugue, 400+ Chorales, two-part inventions, and other miscellaneous keyboard works. 
