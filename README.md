@@ -31,3 +31,6 @@ This approach has also performed rreasonably well with other piano music, the th
 
 https://user-images.githubusercontent.com/132303976/235598437-f5978881-1f2a-41f8-b40f-fe16a560eb9f.mov
 
+
+https://user-images.githubusercontent.com/132303976/235765650-14cc0e30-2140-461b-86d5-c3f6acf0eb74.mov
+
